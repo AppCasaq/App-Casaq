@@ -1,16 +1,2 @@
-# casaq
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+IMPORTANTE: a causa di un anomalia di Firebase (in particolare del servizio storage) le funzioni relative alle immagini potrebbero non funzionare correttamente.
+<img width="1920" height="1032" alt="immagine" src="https://github.com/user-attachments/assets/9bfa9bfa-babd-4b24-857e-c50ab28752cd" />
